@@ -1,0 +1,4 @@
+{
+	"mongooseURI": "mongodb+srv://social:social@cluster0-2uy5v.mongodb.net/test?retryWrites=true&w=majority",
+	"jsonSecret": "prinssecretman"
+}
